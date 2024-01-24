@@ -1,0 +1,1 @@
+# The project revolves around a dataset capturing 911 emergency calls, detailing instances where individuals from diverse zip codes reached out for various emergency reasons. 
